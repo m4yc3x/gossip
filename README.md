@@ -6,6 +6,8 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-0.1.0-orange.svg)](gossip-client/main.go)
 
+![Gossip Logo](gossip-client/frontend/src/assets/images/logo-universal.png)
+
 ## Overview
 
 Gossip is a secure, decentralized communications platform that combines the reliability of a hub-and-spoke architecture with the privacy and efficiency of peer-to-peer (P2P) connections. Built with Go and modern web technologies, Gossip provides end-to-end encrypted messaging, voice, and video calling capabilities.
